@@ -1,3 +1,9 @@
 # housepriceprediction
-House dataset is collected and datacleaned
-A model based on linear regression used to predict house price
+House dataset is collected and datacleaned<br>
+A model is created  based on linear regression which predicts house price<br>
+
+<b>Libraries:<br>
+ <b>Numpy<br>
+ <b>Pandas<br>
+ <b>Seaborn 
+
