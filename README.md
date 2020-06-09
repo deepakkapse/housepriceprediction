@@ -1,4 +1,4 @@
-# housepriceprediction
+# HousePricePrediction
 House dataset is collected and datacleaned<br>
 A model is created  based on linear regression which predicts house price<br>
 
