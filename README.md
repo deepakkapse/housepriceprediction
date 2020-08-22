@@ -6,5 +6,5 @@ The  model is created  based on linear regression which predicts house price..<b
  <b>Numpy<br>
  <b>Pandas<br>
  <b>Seaborn<br>
- <b>Matplotlib 
+ <b>Matplotlib.
 
